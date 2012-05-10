@@ -1,7 +1,7 @@
 [PANTHEON RSYNC APP](https://github.com/timani/Prsync)
 =================
 
-If you need to transfer files between your local development environment and Pantheon, the fastest way to get this done is using RSYNC.  This is especially useful if you have files that are over 500MB and can not use the Pantheon dashboard to import your files.
+If you need to transfer files between your local development environment and [Pantheon](https://www.getpantheon.com/), the fastest way to get this done is using RSYNC.  This is especially useful if you have files that are over 500MB and can not use the Pantheon dashboard to get the import done.
 
 Note: This is an Open Source application that is not actually supported by the [Pantheon](https://www.getpantheon.com/) team.
  
@@ -17,12 +17,13 @@ Goals:
 Getting Started
 -----------
 
-To get this working you will need to have a Pantheon account as well as upload your SSH key to your dashboard. 
-
 A good place to start would be the Pantheon wiki where you can get all the information about setting up an account. 
+
+To get this working you will need to have a Pantheon account as well as upload your SSH key to your dashboard. If you need help with this, there is some documentation on how to [add your SSH key to your account](http://helpdesk.getpantheon.com/customer/portal/articles/366938-generating-ssh-keys).
+
 If you would like to try running an application on Pantheon that is not Drupal, then feel free to clone the repo and push the code to your Pantheon account. 
-Clone the repo, `git@github.com:pantheon-systems/dnscheck.git`.
- 
+Clone the repo, `git@github.com:timani/prsync.git`.
+
 
 
 Support and Bug tracking
