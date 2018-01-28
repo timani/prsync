@@ -2,7 +2,7 @@ title: Prsync
 description: /pantheon Rsync utility
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
